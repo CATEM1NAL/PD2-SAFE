@@ -3,7 +3,7 @@ Bypasses Steam's inventory check and gives you access to all tradable skins.
 Name stands for "**S**kins **A**cquired **F**airly **E**asily".
 
 While this does qualify as a cheat/piracy, the skins in this game are in a bit of a
-weird place where a lot of them simply can't be obtained legally anymore -
+weird place where a lot of them simply can't be obtained anymore -
 the licenses for the characters they were associated with expired in 2020 and 2024,
 and with the licenses expiring the skins were made unmarketable. Due to this
 skin unlockers are now the only way to actually gain access to what are some of the
