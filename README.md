@@ -1,5 +1,5 @@
-# PAYDAY 2: S.A.F.E.
-Bypasses Steam's inventory check and gives you access to all tradable skins.
+# S.A.F.E.
+Bypasses PAYDAY 2's Steam inventory check and gives you access to all tradable skins.
 Name stands for "**S**kins **A**cquired **F**airly **E**asily".
 
 While this does qualify as a cheat/piracy, the skins in this game are in a bit of a
