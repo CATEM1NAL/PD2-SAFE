@@ -7,7 +7,7 @@ weird place where a lot of them simply can't be obtained anymore -
 the licenses for the characters they were associated with expired in 2020 and 2024,
 and with the licenses expiring the skins were made unmarketable. Due to this
 skin unlockers are now the only way to actually gain access to what are some of the
-best skins in the game.
+best looking skins in the game.
 
 There *are* other skin unlockers that exist, but after looking at the first one
 that one of my friends was using I was honestly kinda baffled at how they chose to
