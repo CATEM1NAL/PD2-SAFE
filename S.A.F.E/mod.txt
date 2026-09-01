@@ -1,6 +1,6 @@
 {
 	"name" : "S.A.F.E",
-	"description" : "Bypasses Steam's inventory check and gives you access to all tradable skins.",
+	"description" : "Skips the Steam inventory check and gives you access to all tradable skins.",
 	"author" : "~/cat/em1/nal/",
 	"blt_version" : 2,
 	"version" : "1.0.0",
