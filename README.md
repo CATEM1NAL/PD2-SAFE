@@ -22,3 +22,9 @@ tradable skin in the game instead. This is a much lighter approach and has addit
 checks in place to prevent the game from trying to add the Immortal Python skins
 (which were turned into a weapon colour some years ago) and additionally unlocks all
 of the tradable armour skins too.
+
+As a side effect of how this is implemented, it also prevents the game from getting
+softlocked on a black loading screen - the reason that happens sometimes is because
+the game gets stuck trying to load the Steam inventory, which [this](https://modworkshop.net/mod/52035)
+mod fixes. Because S.A.F.E prevents the game from trying to poll Steam at all, it also fixes the
+loading softlock as well (making the aforementioned mod unneeded while S.A.F.E is active).
