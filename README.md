@@ -1,5 +1,5 @@
 # S.A.F.E
-Bypasses PAYDAY 2's Steam inventory check and gives you access to all tradable skins.
+Skips PAYDAY 2's Steam inventory check and gives you access to all tradable skins.
 Name stands for "**S**kins **A**cquired **F**airly **E**asily".
 
 [**Download**](https://github.com/CATEM1NAL/PD2-SAFE/releases/latest/download/S.A.F.E.zip)
