@@ -1,0 +1,8 @@
+{
+	"name" : "S.A.F.E",
+	"description" : "Bypasses Steam's inventory check and gives you access to all tradable skins.",
+	"author" : "~/cat/em1/nal/",
+	"blt_version" : 2,
+	"version" : "1.0.0",
+	"hooks" : [ { "hook_id" : "lib/network/matchmaking/networkaccountsteam", "script_path" : "hook.lua" } ]
+}
