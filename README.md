@@ -1,4 +1,4 @@
-# S.A.F.E.
+# S.A.F.E
 Bypasses PAYDAY 2's Steam inventory check and gives you access to all tradable skins.
 Name stands for "**S**kins **A**cquired **F**airly **E**asily".
 
