@@ -4,8 +4,8 @@ Name stands for "**S**kins **A**cquired **F**airly **E**asily".
 
 [**Download**](https://github.com/CATEM1NAL/PD2-SAFE/releases/latest/download/S.A.F.E.zip)
 
-While this does qualify as a cheat/piracy, the skins in this game are in a bit of a
-weird place where a lot of them simply can't be obtained anymore -
+While this very objectively a cheat (no way around it), the skins in this game are
+in a bit of a weird place where a lot of them simply can't be obtained anymore -
 the licenses for the characters they were associated with expired in 2020 and 2024,
 and with the licenses expiring the skins were made unmarketable. Due to this
 skin unlockers are now the only way to actually gain access to what are some of the
